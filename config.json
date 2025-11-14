@@ -1,0 +1,41 @@
+{
+    "file_paths": {
+        "contacts_file": "C:/Users/Abhishek Yadav/Downloads/Gmail Automation/contacts.xlsx",
+        "log_file": "C:/Users/Abhishek Yadav/Downloads/Gmail Automation/execution_log.xlsx"
+    },
+    "users": {
+        "Abhishek": {
+            "signature_details": {
+                "name": "Abhishek Yadav",
+                "designation": "Senior Account Executive",
+                "phone": "+91 9876543210"
+            },
+            "sending_accounts": [
+                {
+                    "email": "abhishek.yadav@infidigit.com",
+                    "app_password": "hkmj iecr paow mshg"
+                }
+            ]
+        },
+        "Abhi": {
+            "signature_details": {
+                "name": "Abhishek Yadav",
+                "designation": "Senior Account Executive",
+                "phone": "+91 9876543210"
+            },
+            "sending_accounts": [
+                {
+                    "email": "innovatecorelab@gmail.com",
+                    "app_password": "znkg wtmx wpmt imxl"
+                }
+            ]
+        }
+    },
+    "timezone_mapping": {
+        "New York": "America/New_York",
+        "London": "Europe/London",
+        "Tokyo": "Asia/Tokyo",
+        "Sydney": "Australia/Sydney",
+        "Los Angeles": "America/Los_Angeles"
+    }
+}
